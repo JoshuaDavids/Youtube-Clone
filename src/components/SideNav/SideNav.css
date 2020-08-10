@@ -1,0 +1,11 @@
+.sideNav {
+  flex: 0.2;
+  background: #fdf9ff;
+}
+.sideNav > hr {
+  height: 1px;
+  border: none;
+  background: #e8dfec;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

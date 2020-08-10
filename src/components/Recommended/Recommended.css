@@ -1,0 +1,15 @@
+.recommended {
+  flex: 0.8;
+  background: #f2f2fc;
+  padding: 40px 20px;
+  padding-bottom: 0;
+}
+.recommended > h2 {
+  margin-left: 5px;
+  margin-bottom: 20px;
+  color: #302e4d;
+}
+.videos {
+  display: flex;
+  flex-wrap: wrap;
+}
